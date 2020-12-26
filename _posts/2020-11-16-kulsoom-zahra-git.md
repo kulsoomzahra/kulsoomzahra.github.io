@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Putting it all Together! Launches Site "
-date: 2020-11-12
+title: "GIT - a treat for coders!"
+date: 2020-11-16
 ---
 Today I read an article on GIT - a Version Control Software.
 Although I knew about it but this article made things simpler.
