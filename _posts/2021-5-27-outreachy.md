@@ -13,7 +13,7 @@ Opensource is where people, as a whole community come together to evolve, learn,
 <em>"The way we see the problem is the problem."  ~Stephen Covey </em>.
 <p> Optimism is something that helps me keep going. When things don't turn out the way you want, DONOT loose hope in the good, believe in yourself. Your failures and your journey is what makes you, and shapes you. Make sure you plant some good thoughts in your heads and don't forget to pluck out the weeds ;) they're unwanted. They'll kill your ambitions, which in turn may fuel your Impostor Syndrome!
 So hey, HANG ON! You can do it. 
-Be happy; don't forget Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. &#128521</p> 
+Be happy; don't forget Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. &#128521 </p> 
 <h3><strong>Compassion</strong></h3> <em>“If we have no peace, it is because we have forgotten that we belong to each other.”
 ~ Mother Teresa</em>
 <p>
