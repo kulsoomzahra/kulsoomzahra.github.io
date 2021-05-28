@@ -20,6 +20,6 @@ Be happy; don't forget Happiness can be found, even in the darkest of times, if 
 Everyone fights their own battles, you never know what they're going through. The least you can do is be kind and welcoming. Sometimes the smallest acts of kindness leave life long impacts on people. Help others grow, encourage them. It costs nothing plus you feel so lively from within. 
 </p>
 <h2>What is Outreachy and what motivated me to apply?</h2>
-<a href"https://www.outreachy.org/">Outreachy</a> is a remote internship program that promotes diversity in tech. It explicitly invites people subject to systematic bais and discrimination.
+<a href="https://www.outreachy.org/">Outreachy</a> is a remote internship program that promotes diversity in tech. It explicitly invites people subject to systematic bais and discrimination.
 It provides internships to work on open source. I was interested seeing the variety of FOSS communities that participate varing from Machine Learning to Data science, anomity and much more. Furthermore my interest into digital privacy and security pushed me to apply to outreachy and the Tor Project.
 
