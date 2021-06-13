@@ -2,7 +2,7 @@
 layout: post
 title: "Outreachy : Everyone Struggles! "
 date: 2021-6-13
--
+---
 Everyone starts out not knowing things. That's nice, you don't need to know everything! :) <br>
 This blog is about a vocabulary term I didn’t know very well about when I was applying for Outreachy 
 
