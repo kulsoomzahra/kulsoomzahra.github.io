@@ -22,5 +22,5 @@ A list of our Onion Services is available at _onion.torproject.org._
 The goal of Tor is to protect **meta-data**, which contains alot of information.<br>
 _Onion services allow people to browse but also to publish anonymously, including publishing anonymous websites._ That is, you can offer a web server etc, without revealing your IP address to its users. In this way, protection for both the user and the server is acheived.<br>
 <p>
-One of the scenarios where you would need these are Secure drop. This is basically a way of interacting in a back-and-forth way with journalists where let's say you got to know some story about some terrible thing the government did and you want to reveal this and get it in the hands of the New York Times or The Washington Post or any other xyz, so that they can write a good article about it but, you want to stay anonymous. 
+One of the scenarios where you would need these are Secure drop. This is basically a way of interacting in a back-and-forth way with journalists where let's say you got to know some story about some terrible thing the government did and you want to reveal this and get it in the hands of the New York Times or The Washington Post or any other xyz, so that they can write a good article about it but, you want to stay anonymous. Thus, no one would know who the author is and can't put the source at risk.
 </p>
