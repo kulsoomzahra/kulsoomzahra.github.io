@@ -7,6 +7,7 @@ nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+    position: center;
     font-weight: bold;
 }
 nav ul li, footer ul li {
@@ -25,12 +26,12 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.25em;
+    font-size: 1.15em;
     line-height: 1.3em;
     color: #333;
 }
 body{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Times New Roman', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
