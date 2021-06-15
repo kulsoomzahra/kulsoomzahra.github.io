@@ -30,13 +30,13 @@ h2{
     font-weight: bold;
 }
 p {
+    
+    font-family:'Barlow Semi Condensed', sans-serif;
     font-size: 1.15em;
     line-height: 1.3em;
     color: #333;
 }
-body{
-    font-family:'Times New Roman', 'Arial', 'Sans-Serif';
-}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
