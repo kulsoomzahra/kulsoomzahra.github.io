@@ -29,3 +29,11 @@ _Onion services allow people to browse but also to publish anonymously._ These a
 One of the scenarios where you would need these are Secure drop instances. This is basically a way of interacting in a back-and-forth way with journalists where let's say you got to know a story about some terrible thing the government did and now you want to hand this over to the New York Times or The Washington Post or any other xyz, so that they can write a good article around it but, you want to stay anonymous. News papers like these run onion sites for rescue.</p>
 
 One thing that I've been encouraged to do is **ask**. Mentors and the people of the outreach community are very nice, always willing to help. Sometimes you might run into thoughts like - that's a simple question, asking this would make me look stupid. That's completely fine, you should ask those too. I would go around this like - hey, i think xyz works like abc. Did i get it right? Lastly, don't be nervous because everyone struggles! :D
+
+
+<h5>
+Ref : 
+Tor Browser and onion services: [https://tb-manual.torproject.org/onion-services/](https://tb-manual.torproject.org/onion-services/)
+How onion services works:[https://community.torproject.org/onion-services/overview/] (https://community.torproject.org/onion-services/overview/)
+Onion services explained in 7 steps zine: [https://community.torproject.org/static/images/outreach/print/minizine-onion-service-A4.jpg](https://community.torproject.org/static/images/outreach/print/minizine-onion-service-A4.jpg)
+</h5>
