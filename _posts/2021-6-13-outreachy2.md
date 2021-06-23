@@ -31,7 +31,7 @@ One of the scenarios where you would need these are Secure drop instances. This 
 One thing that I've been encouraged to do is **ask**. Mentors and the people of the outreach community are very nice, always willing to help. Sometimes you might run into thoughts like - that's a simple question, asking this would make me look stupid. That's completely fine, you should ask those too. I would go around this like - hey, i think xyz works like abc. Did i get it right? Lastly, don't be nervous because everyone struggles! :D
 </p>
 
-<h5> Ref : </h5>
-How onion services works:[https://community.torproject.org/onion-services/overview/](https://community.torproject.org/onion-services/overview/)
-Onion services explained in 7 steps zine: [https://community.torproject.org/static/images/outreach/print/minizine-onion-service-A4.jpg](https://community.torproject.org/static/images/outreach/print/minizine-onion-service-A4.jpg)
+<h5> Ref : 
+How onion services works:<a href="https://community.torproject.org/onion-services/overview/">https://community.torproject.org/onion-services/overview/</a>
+Onion services explained in 7 steps zine:<a href="https://community.torproject.org/static/images/outreach/print/minizine-onion-service-A4.jpg">https://community.torproject.org/static/images/outreach/print/minizine-onion-service-A4.jpg</a></h5>
 
