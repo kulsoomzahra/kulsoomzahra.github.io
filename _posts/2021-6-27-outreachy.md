@@ -6,7 +6,7 @@ date: 2021-6-27
 Hello everybody! :)<br>
 This blog post is an introduction of the organization I've been working with, The Tor project.
 
-<q>Privacy is a human right. We at Tor advance human rights and defend your privacy online through FOSS.</q>
+_**Privacy is a human right. We at Tor advance human rights and defend your privacy online through FOSS.**_
 
 <p>The Tor Project works for advancements of human rights through free and open-source software. <br>
 We're becoming a world where most of our day-to-day activities are being shifted to the web. At such crucial times, digital privacy and security should be your outmost concern as it is equally important.<br>
@@ -16,7 +16,7 @@ We're becoming a world where most of our day-to-day activities are being shifted
 <p>Tor is a program that enables you to increase your digital privacy and security. It secures you by routing your connections via a distributed network of relays operated by volunteers across the globe. <b><i>Tor aims to solve the main privacy problems</i></b> - websites and other services can use your location to build databases about your habits and interests. <b>Tor prevents this.</b>
  <br>It avoids someone observing your Internet connection from learning the sites you visit and the sites you visit from discovering your actual location.
 </p>
-With Tor, your Internet connections don't give you away by default - unless you provide (by filling out forms). Now you've the ability to control <b><i>what and how much</i></b> information you wish to reveal.
+With Tor, your Internet connections don't give you away by default - unless you provide (by filling out forms). Now you've the ability to control <b><i>what and how much</i></b> information you wish to reveal. The way most people use Tor is with the <b>Tor Browser</b>, which is based on [Firefox ESR](https://www.mozilla.org/en-US/firefox/enterprise/) and comes bundled with privacy enhancing & anti-fingerprinting features.
 
 <h2><b>How Tor works?</b></h2> 
 There's this nice picture on the [Tor Browser Manual](https://tb-manual.torproject.org/about/) that explains how the software functions: 
