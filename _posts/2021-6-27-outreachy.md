@@ -6,7 +6,7 @@ date: 2021-6-27
 Hello everybody! :)<br>
 This blog post is an introduction of the organization I've been working with, The Tor project.
 
-_**Privacy is a human right. We at Tor advance human rights and defend your privacy online through FOSS.**_
+_**" Privacy is a human right. We at Tor advance human rights and defend your privacy online through FOSS."**_
 
 <p>The Tor Project works for advancements of human rights through free and open-source software. <br>
 We're becoming a world where most of our day-to-day activities are being shifted to the web. At such crucial times, digital privacy and security should be your outmost concern as it is equally important.<br>
