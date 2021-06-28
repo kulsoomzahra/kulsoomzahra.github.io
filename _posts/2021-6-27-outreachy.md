@@ -21,14 +21,18 @@ With Tor, your Internet connections don't give you away by default - unless you 
 There's this nice picture on the [Tor Browser Manual](https://tb-manual.torproject.org/about/) that explains how the software functions: 
 ![My](/tor4.png)
 
-Tor works by sending your traffic through 3 random servers (also known as relays) in the Tor network.
-The last relay in the circuit (exit relay) then sends the traffic out onto the public Internet.
-Your communication is encrypted in many layers and routed via many hops through the Tor network to the final receiver.
+Tor works by sending your traffic through 3 random servers (also known as relays) in the Tor network. The green middle computers in the image above represent  the relays, while the three keys represent the **layers of encryption** between the user and each relay.
+
+The last relay in the circuit (**exit relay**) then sends the traffic out onto the public Internet. This means the website you're visiting does not ever see you or your IP, instead only recieves the traffic from exit realys (as in the picture).
+
+So, defend yourself against surveillance!
 
 <h5> Ref : 
 The Tor Project:<a href="https://www.torproject.org/">https://www.torproject.org/</a>
- <br>
+<br>
 Tor Browser Manual:<a href="https://tb-manual.torproject.org/">https://tb-manual.torproject.org/</a>
+ <br>
+Download TB:<a href="https://www.torproject.org/download/">https://www.torproject.org/download/</a>
 </h5>
 
 
