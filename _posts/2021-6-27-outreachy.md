@@ -27,7 +27,7 @@ Tor works by sending your traffic through 3 random servers (also known as relays
 It is the **exit relay** then sends the traffic out onto the public Internet. This means the website you're visiting does not ever see you or your IP, instead only recieves the traffic from exit realys (as in the picture).
 
 These relays are operated by volunteers based in different parts of the world. Since the IP of these relays is **_publicly listed_**, they can be blocked by governments or ISPs by blocklisting these IP addresses. 
-<br>
+
 Tor Browser includes tools for getting around these blocks. These tools are called **pluggable transports** which rely on bridges. Bridges are _not_ listed publicly, so an adversary cannot identify them easily.
 
 That's a brief overview, so, defend yourself against surveillance! ;)
