@@ -18,7 +18,7 @@ Tor aims to solve the main privacy problems - websites and other services can us
 
 With Tor, your Internet connections don't give you away by default - unless you provide (by filling out forms). Now you've the ability to control what and how much information you wish to reveal.
 
-<h2>How Tor works?</h2> 
+<h1>**How Tor works?</h1> 
 There's this nice picture on the [Tor Browser Manual](https://tb-manual.torproject.org/about/) that explains how the software functions: ![My](/tor4.png)
 
 Tor works by sending your traffic through 3 random servers (also known as relays) in the Tor network.
