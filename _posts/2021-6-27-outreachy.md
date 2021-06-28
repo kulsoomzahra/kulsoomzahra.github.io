@@ -16,7 +16,7 @@ We're becoming a world where most of our day-to-day activities are being shifted
 <p>Tor is a program that enables you to increase your digital privacy and security. It secures you by routing your connections via a distributed network of relays operated by volunteers across the globe. <b><i>Tor aims to solve the main privacy problems</i></b> - websites and other services can use your location to build databases about your habits and interests. <b>Tor prevents this.</b>
  <br>It avoids someone observing your Internet connection from learning the sites you visit and the sites you visit from discovering your actual location.
 </p>
-With Tor, your Internet connections don't give you away by default - unless you provide (by filling out forms). Now you've the ability to control what and how much information you wish to reveal.
+With Tor, your Internet connections don't give you away by default - unless you provide (by filling out forms). Now you've the ability to control <b><i>what and how much</i></b> information you wish to reveal.
 
 <h2><b>How Tor works?</b></h2> 
 There's this nice picture on the [Tor Browser Manual](https://tb-manual.torproject.org/about/) that explains how the software functions: 
