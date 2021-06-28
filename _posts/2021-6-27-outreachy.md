@@ -13,7 +13,7 @@ We're becoming a world where most of our day-to-day activities are being shifted
  You might not be even aware about <b><i>how much</i></b> information you're giving access to over the internet. The targeted ads that follow for weeks clearly depicts, we’re being tracked at all times. It’s high time we redeem our rights, because privacy is a human right!</p>
 
 <h2><b>What is Tor?</b></h2> 
-<p>Tor is a program that enables you to increase your digital privacy and security. It secures you by routing your connections via a distributed network of relays operated by volunteers across the globe. Tor aims to solve the main privacy problems - websites and other services can use your location to build databases about your habits and interests. <b>Tor prevents this.</b>
+<p>Tor is a program that enables you to increase your digital privacy and security. It secures you by routing your connections via a distributed network of relays operated by volunteers across the globe. <b><i>Tor aims to solve the main privacy problems</b></i> - websites and other services can use your location to build databases about your habits and interests. <b>Tor prevents this.</b>
  <br>It avoids someone observing your Internet connection from learning the sites you visit and the sites you visit from discovering your actual location.
 </p>
 With Tor, your Internet connections don't give you away by default - unless you provide (by filling out forms). Now you've the ability to control what and how much information you wish to reveal.
