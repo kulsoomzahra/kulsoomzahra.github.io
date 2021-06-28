@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tor, not TOR "
+title: "It's Tor, not TOR "
 date: 2021-6-27
 ---
 Hello everybody!
