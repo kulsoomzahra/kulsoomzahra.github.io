@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Tracking Progress "
-date: 2021-6-27
+date: 2021-7-11
 ---
 Hello everybody! :)<br>
 This blog post is about the progress i've made during the first half period of my internship.
