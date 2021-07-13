@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "Tracking Progress "
@@ -8,7 +9,7 @@ This blog post is about the progress i've made during the first half period of m
 
 Halfway through the internship and feels like I just started a week or two ago. Time flies, perhaps the time you're busy, either learning something new or figuring out new ways to improve yourself, flies faster. I aspire to live by this goal of constantly reflecting upon thyself, what else can be done, what am i lacking etc etc.
 
-In the past one and a half month or so, I, along the Commuity team were able to solve around **210+** tickets on the Tor Project's RT. Prima facie, RT seemed a complex thing to handle but, slowly things became more familiar and i was enjoying handling tickets. My mentor helped me throughout the time. We used to discuss RT things, related challenges and he used to suggest me ways i could improve.
+In the past one and a half month or so, I, along the Commuity team was able to solve **210+** tickets on the Tor Project's RT. At first, RT seemed a complex thing to handle, but, slowly things became more familiar and I was enjoying resolving tickets. My mentor helped me throughout the way. We used to discuss RT issues and challenges, and he would also offer me suggestions on how to improve and do better.
 
 As per the original timeline, **Tor Browser 10.5** was supposed to be released on the first week of June. But due to some reasons, the release was delayed to the 6th of July. So, what we did instead was, changed the order of the priorities a little bit, and shifted our focus onto the Request Tracker, 
 creating and updating user templates and composing the User Feedback Report. This report puts together all the major UI/UX pain points faced by users of Tor and Tor Browser. It covers a wide variety of subjects ranging from UI/UX to anti-censorship to debugging, and so forth. 
