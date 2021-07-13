@@ -8,7 +8,9 @@ This blog post is about the progress i've made during the first half period of m
 
 Halfway through the internship and feels like I just started a week or two ago. Time flies, perhaps the time you're busy, learning and figuring out things, flies faster. I aspire to live by this goal of constantly reflecting upon thyself, improving, analyzing what else can be done, what am I lacking etc etc.
 
-In the past one and a half month or so, I, along the Commuity team was able to solve **210+** tickets on the Tor Project's RT. At first, RT seemed a complex thing to handle, but, slowly things became more familiar and I was enjoying resolving tickets. My mentor helped me throughout the way. We used to discuss RT issues and challenges, and he'd also advice me how I could improve and do better. I've learned quite a great deal about the _**Tor network, its configuration and cryptography, bridges, onion services,**_ along with how to **bypass** censorship in countries that restrict basic freedom of internet users.
+In the past one and a half month or so, I, along the Commuity team was able to solve **210+** tickets on the Tor Project's RT.  At first, RT seemed a complex thing to handle, but, slowly things became more familiar and I was enjoying resolving tickets. My mentor helped me throughout the way. We used to discuss RT issues and challenges, and he'd also advice me how I could improve and do better. 
+
+I've learned quite a great deal about the _**Tor network**, its configuration and cryptography, **bridges**, **onion services**_, along with how to **bypass** censorship in countries that restrict basic freedom of internet users.
 
 
 <h2><b>Tor Browser Release</b></h2> 
