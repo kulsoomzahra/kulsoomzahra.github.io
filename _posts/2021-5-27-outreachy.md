@@ -7,7 +7,7 @@ Hello, world! :D <br>
 My name is Kulsoom Zahra, I'm from India. I recently attended Bachelors of Computer Science and Applications at Aligarh Muslim University.
 I like exploring different techs and learning new stuff. Talking some more about me I love to eat, travel, hang out. &#128518; 
 <h2>My core values are </h2>
-<h3><strong>Growth</strong></h3> <p> I strive to be better by each passing day that's why I value growth. Being a better version of your own self is, I beleive quite important; can be in any ascpect of your life. The quote <em>"Live as if you were to die tomorrow. Learn as if you were to live forever"</em>  resonates with growth well. Slowly and steadly working towards your goals, building good habits and disciplines, learning from mistakes is what can contribute towards bringing out the best.
+<h3><strong>Growth</strong></h3> <p> I strive to be better by each passing day that's why I value growth. Being a better version of your own self is, I beleive quite important; can be in any aspect of your life. The quote <em>"Live as if you were to die tomorrow. Learn as if you were to live forever"</em>  resonates with growth well. Slowly and steadly working towards your goals, building good habits and disciplines, learning from mistakes is what can contribute towards bringing out the best.
 Opensource is where people, as a whole community come together to evolve, learn, build and share ideas. It's like a treasure pool of knowledge.</p>
 <h3><strong>Optimism</strong></h3>
 <em>"The way we see the problem is the problem."  ~Stephen Covey </em>.
